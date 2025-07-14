@@ -1,9 +1,34 @@
-- 👋 Hi, I’m Yashdeep Singh, 3rd Year student from DTU
-- 👀 I’m interested in learning new skills.
-- 🌱 I’m currently learning the reason behind these awesome softwares .
-- 📫 To reach me just dm me on instagram IM.YASHDEEP
+# 👋 Hi, I'm Yashdeep Singh
 
-<!---
-Yash5204/Yash5204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech in Civil Engineering from DTU | 📊 Aspiring Product & Data Analyst  
+🚀 Passionate about solving real-world business problems using data, design thinking, and product sense.
+
+---
+
+## 🔧 Tools & Skills
+
+**Languages & Analysis:** Python (Pandas, NumPy), SQL (CTEs, Window Functions), Power BI, Excel (Pivot Tables, DAX)  
+**Product Analytics:** Funnel Analysis, Retention Cohorts, A/B Testing, KPI Dashboards, Data Storytelling  
+**Tech Stack:** Git, VS Code, Power Query, Google Analytics  
+**Soft Skills:** Structured Thinking, Business Communication, Cross-functional Collaboration
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Topper of Batch, DTU (2022–23)  
+- 🎓 Class of 1969 & Col. Vidyasagar Scholarship Recipient  
+- 🧠 Director – DTU Consulting Group | Led case study & guesstimate training for 50+ students  
+- 🎤 Raised ₹38L+ as Corporate Head, Engifest (Sponsorships + Vendor Ops)
+
+---
+
+## 📬 Connect with Me
+
+- 📫 [LinkedIn](https://www.linkedin.com/in/yashdtu/)  
+- 🧑‍💻 [GitHub](https://github.com/Yash5204)  
+- 💡 Open to product, data, or growth analyst roles in fast-paced, impact-driven teams
+
+---
+
+> “Data is not just numbers—it's insight, action, and opportunity.”
