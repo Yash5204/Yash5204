@@ -26,7 +26,7 @@
 ## 📬 Connect with Me
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/yashdtu/)  
-- 🧑‍💻 [GitHub](https://github.com/Yash5204)  
+- 🧑‍💻 [Leetcode](https://leetcode.com/Yash522004)  
 - 💡 Open to product, data, or growth analyst roles in fast-paced, impact-driven teams
 
 ---
